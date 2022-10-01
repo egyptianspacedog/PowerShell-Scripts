@@ -1,6 +1,6 @@
 Set-Location C:\
 
-Import-Alias D:\Dylan\Documents\WindowsPowerShell\alias.csv
+Import-Alias FILEPATH\alias.csv
 
 $Shell = $Host.UI.RawUI
 $Size = $Shell.WindowSize
